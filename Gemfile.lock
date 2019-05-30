@@ -12,6 +12,7 @@ GEM
   remote: https://rails-assets.org/
   specs:
     actionmailer (4.2.7.1)
+    puma (3.6.2)
       actionpack (= 4.2.7.1)
       actionview (= 4.2.7.1)
       activejob (= 4.2.7.1)
@@ -118,7 +119,6 @@ GEM
     orm_adapter (0.5.0)
     pg (0.19.0)
     public_suffix (2.0.4)
-    puma (3.6.2)
     rack (1.6.5)
     rack-protection (1.5.3)
       rack
